@@ -21,3 +21,13 @@ pnpm-debug.log*
 .idea/
 
 candor_turn_taking/
+candor_pause_handling/
+candor_turn_taking2/
+icc_backchannel/
+synthetic_pause_handling/
+synthetic_user_interruption/
+candor_pause_handling.zip
+candor_turn_taking.zip
+icc_backchannel.zip
+synthetic_pause_handling.zip
+synthetic_user_interruption.zip
